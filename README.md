@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact **I think i'm a cool dev**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
