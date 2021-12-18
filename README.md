@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Romain Martinez</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
+<br>
 
 
 - 🔭 I’m currently studing at **Efrei Paris**
