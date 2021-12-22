@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next.js and React.js**
 
-- 💬 Ask me about **Javascript and I will help you !**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/romain-martinez/](https://www.linkedin.com/in/romain-martinez/)
 
 - ⚡ Fun fact **I think i'm a cool dev**
