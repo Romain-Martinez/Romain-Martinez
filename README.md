@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently studing at **Efrei Paris**
 
-- 🌱 I’m currently learning **Next.js and React.js**
-
 - 📄 Know about my experiences : [https://www.linkedin.com/in/romain-martinez/](https://www.linkedin.com/in/romain-martinez/)
 
 - ⚡ Fun fact **I think i'm a cool dev**
