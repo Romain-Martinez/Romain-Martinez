@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences : [https://www.linkedin.com/in/romain-martinez/](https://www.linkedin.com/in/romain-martinez/)
 
-- ⚡ Fun fact : **I think I'm a cool dev**
+- ⚡ Fun fact : **I think I'm a cool dev 😁**
 
 <p align="left">
 </p>
